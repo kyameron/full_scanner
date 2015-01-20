@@ -1,0 +1,5 @@
+e:=444,444.13-[-444,444.13];
+gee:=c+e+3.14159^+123+33.444,44+c+gee;
+[A:file.txt];
+#include<iostream.h>
+import\java.test.string;

@@ -1,0 +1,6 @@
+program testcase1;
+var
+	doe,bread:money;
+	a,b,ab:string; //string variables
+	c,d,cd:int;
+	e,mypi:float;
